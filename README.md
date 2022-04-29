@@ -1,4 +1,4 @@
-# Cross Site Scripting Though SVG Files in "Allow SVG Files" Wordpress Plugin
+# Cross Site Scripting Through SVG Files in "Allow SVG Files" Wordpress Plugin
 
 This PoC describe how to exploit a Cross-Site Scripting (XSS) in Wordpress "Allow SVG Files" version 1.0.0
 
