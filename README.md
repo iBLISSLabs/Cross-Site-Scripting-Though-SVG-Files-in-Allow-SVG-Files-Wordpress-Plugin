@@ -1,0 +1,1 @@
+# Cross-Site-Scripting-Though-SVG-Files-in-Allow-SVG-Files-Wordpress-Plugin
